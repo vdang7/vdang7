@@ -1,6 +1,6 @@
-### Hi there, I'm [DotVTech][portfolio] :wave:
+### Hi there, I'm [Viet][portfolio] :wave:
 ### I build things for the web.
-- :seedling: I'm currently building my [open source portfolio](https://github.com/DotVTech/DotVTech.github.io).
+- :seedling: I'm currently building my [open source portfolio](https://github.com/vdang7/vdang7.github.io).
 - :zap: Fun fact: I began using computers at the age of 5.
 
 ---
