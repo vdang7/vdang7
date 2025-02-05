@@ -4,11 +4,11 @@
 
 ---
 
-### View my latest projects
-#### [The Stars - *Restaurant Website*][the-stars]
+### View my portfolio
+#### [VietDang.me][portfolio]
 
-<a href="https://vietdang.me/the-stars">
-    <img alt="The Stars" width="400px" src="images/restaurant.png" />
+<a href="https://vietdang.me/">
+    <img alt="The Stars" width="400px" src="images/portfolio.jpg" />
 </a>    
 
 ---
