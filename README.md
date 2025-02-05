@@ -8,7 +8,7 @@
 #### [VietDang.me][portfolio]
 
 <a href="https://vietdang.me/">
-    <img alt="The Stars" width="400px" src="images/portfolio.jpg" />
+    <img alt="Portfolio website preview" width="400px" src="images/portfolio.jpg" />
 </a>    
 
 ---
